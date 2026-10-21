@@ -1,0 +1,14 @@
+2026-10-20 23:17:49,979 INFO Inicio
+2026-10-20 23:17:49,993 INFO Solicitacao SOL-001 gravada
+2026-10-20 23:17:49,996 INFO Solicitacao SOL-002 gravada
+2026-10-20 23:17:49,998 INFO Solicitacao SOL-003 gravada
+2026-10-20 23:17:50,002 INFO Solicitacao SOL-004 gravada
+2026-10-20 23:17:50,002 ERROR SOL-005: O campo valor tem um valor menor ou igual que 0
+2026-10-20 23:17:50,005 INFO Solicitacao SOL-006 gravada
+2026-10-20 23:17:50,008 INFO Solicitacao SOL-007 gravada
+2026-10-20 23:17:50,008 ERROR SOL-008: O campo valor deve ser um numero valido
+2026-10-20 23:17:50,011 INFO Solicitacao SOL-009 gravada
+2026-10-20 23:17:50,011 ERROR SOL-009: Identificador duplicado
+2026-10-20 23:17:50,011 ERROR SOL-010: O campo area, esta vazio
+2026-10-20 23:17:50,014 INFO Solicitacao SOL-011 gravada
+2026-10-20 23:17:50,015 INFO Fim. lidos=12, validos=8, rejeitados=4, aprovados=5, pendentes=2, cancelados=1, soma_por_area={'Peças': 3200.0, 'Vendas': 270.0}

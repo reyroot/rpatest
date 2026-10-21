@@ -1,0 +1,14 @@
+id_solicitacao,data,area,descricao,valor,status,motivo
+SOL-005,2026-10-03,Oficina,Compra de ferramenta,"-50,00",Aprovado,O campo valor tem um valor menor ou igual que 0
+SOL-008,2026-10-05,Oficina,Serviço terceirizado,abc,Aprovado,O campo valor deve ser um numero valido
+SOL-009,2026-10-05,Vendas,Material escritório,"90,00",Aprovado,Identificador duplicado
+SOL-010,2026-10-06,,Compra emergencial,"300,00",Aprovado,"O campo area, esta vazio"
+SOL-013,2026-13-01,Vendas,Campanha,"100,00",Aprovado,O campo data tem um formato errado
+SOL-014,2026-10-08,Peças,Ajuste de estoque,"80,00",Enviado,O campo status tem um valor invalido
+SOL-015,2026-10-08,Oficina,Serviço interno,"0,00",Aprovado,O campo valor tem um valor menor ou igual que 0
+SOL-016,2026-10-09,Vendas,,"50,00",Pendente,"O campo descricao, esta vazio"
+SOL-017,2026-10-09,,Sem área,"70,00",Aprovado,"O campo area, esta vazio"
+SOL-023,2026-10-12,Oficina,Status minúsculo,"30,00",aprovado,O campo status tem um valor invalido
+SOL-024,2026-10-32,Vendas,Dia inválido,"40,00",Cancelado,O campo data tem um formato errado
+SOL-026,,Oficina,Sem identificador,"60,00",Aprovado,"O campo data, esta vazio"
+SOL-012,2026-10-15,Oficina,Troca de peça repetida,"2.500,75",Aprovado,Identificador duplicado

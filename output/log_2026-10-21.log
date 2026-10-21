@@ -1,0 +1,33 @@
+2026-10-21 00:20:16,171 INFO Inicio
+2026-10-21 00:20:16,186 INFO Solicitacao SOL-001 gravada
+2026-10-21 00:20:16,189 INFO Solicitacao SOL-002 gravada
+2026-10-21 00:20:16,192 INFO Solicitacao SOL-003 gravada
+2026-10-21 00:20:16,195 INFO Solicitacao SOL-004 gravada
+2026-10-21 00:20:16,195 ERROR SOL-005: O campo valor tem um valor menor ou igual que 0
+2026-10-21 00:20:16,198 INFO Solicitacao SOL-006 gravada
+2026-10-21 00:20:16,200 INFO Solicitacao SOL-007 gravada
+2026-10-21 00:20:16,201 ERROR SOL-008: O campo valor deve ser um numero valido
+2026-10-21 00:20:16,204 INFO Solicitacao SOL-009 gravada
+2026-10-21 00:20:16,204 ERROR SOL-009: Identificador duplicado
+2026-10-21 00:20:16,204 ERROR SOL-010: O campo area, esta vazio
+2026-10-21 00:20:16,207 INFO Solicitacao SOL-011 gravada
+2026-10-21 00:20:16,210 INFO Solicitacao SOL-012 gravada
+2026-10-21 00:20:16,210 ERROR SOL-013: O campo data tem um formato errado
+2026-10-21 00:20:16,210 ERROR SOL-014: O campo status tem um valor invalido
+2026-10-21 00:20:16,211 ERROR SOL-015: O campo valor tem um valor menor ou igual que 0
+2026-10-21 00:20:16,211 ERROR SOL-016: O campo descricao, esta vazio
+2026-10-21 00:20:16,211 ERROR SOL-017: O campo area, esta vazio
+2026-10-21 00:20:16,213 INFO Solicitacao SOL-017 gravada
+2026-10-21 00:20:16,216 INFO Solicitacao SOL-018 gravada
+2026-10-21 00:20:16,219 INFO Solicitacao SOL-019 gravada
+2026-10-21 00:20:16,222 INFO Solicitacao SOL-020 gravada
+2026-10-21 00:20:16,226 INFO Solicitacao SOL-021 gravada
+2026-10-21 00:20:16,230 INFO Solicitacao SOL-022 gravada
+2026-10-21 00:20:16,230 ERROR SOL-023: O campo status tem um valor invalido
+2026-10-21 00:20:16,230 ERROR SOL-024: O campo data tem um formato errado
+2026-10-21 00:20:16,235 INFO Solicitacao SOL-025 gravada
+2026-10-21 00:20:16,235 ERROR SOL-026: O campo data, esta vazio
+2026-10-21 00:20:16,239 INFO Solicitacao SOL-027 gravada
+2026-10-21 00:20:16,243 INFO Solicitacao SOL-028 gravada
+2026-10-21 00:20:16,243 ERROR SOL-012: Identificador duplicado
+2026-10-21 00:20:16,244 INFO Fim. lidos=31, validos=18, rejeitados=13, aprovados=12, pendentes=4, cancelados=2, soma_por_area={'Peças': 18630.0, 'Vendas': 570.0, 'Oficina': 2511.25}
